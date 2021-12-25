@@ -20,8 +20,7 @@ This page contains information on principles and techniques for learning somethi
     - Modern and effective learning approaches,
     - Feynman's method.
 - The transition to the website of the bookstore, where the user can buy the book by Salman Khan "The whole world is a school".
-- The transition to the websites of "Arzamas", "N+1", "STRELKA" and "ПОЛКА".
-- The transition to the pages "О Практикуме", "Главная", "Концепция", "Наставники".
+- The transition to the pages "Главная", "Концепция", "Наставники".
 # Научиться учиться ![russian](./images/russian.png?raw=true?raw=true)
 ## О проекте:
 Эта страница содержит информацю о принципах и техниках изучения чего-либо. Пользователь может ознакомиться с информацией по теме, посмотреть видео и перейти в социальные сети, кликнув по ссылкам.
@@ -43,5 +42,4 @@ This page contains information on principles and techniques for learning somethi
   - Современные и эффективные подходы к обучению,
   - Метод Фейнмана.
 - Переход на сайт книжного магазина, где пользователь сможет купить книгу Салмана Хана «Весь мир - школа».
-- Переход на сайты «Арзамас», «N + 1», «СТРЕЛКА» и «ПОЛКА».
-- Переход на страницы «О Практикуме», «Главная», «Концепция», «Наставники».
+- Переход на страницы «Главная», «Концепция», «Наставники».
